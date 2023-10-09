@@ -4,7 +4,6 @@
 
 - **Location:** Skudai, Johor
 - **Email:** qaisara02@graduate.utm.my
-- **LinkedIn:** [John Doe's LinkedIn Profile](https://www.linkedin.com/in/johndoe)
 - **GitHub:** [Qai's GitHub Profile](https://github.com/qaisara02)
 
 ## About Me
